@@ -1,2 +1,2 @@
 # E-commerce
-This is my first Reposotory...!
+This is my first Repository...!
